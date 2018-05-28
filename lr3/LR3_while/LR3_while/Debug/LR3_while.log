@@ -1,0 +1,10 @@
+﻿  task6.c
+  task5.c
+  task4.c
+  task3.c
+  task2.c
+  task1.c
+  Создание кода...
+c:\users\noob\desktop\новая папка\lr3_while\lr3_while\task5.c(17): warning C4715: findFirstNegativeElement: значение возвращается не при всех путях выполнения
+  LR3_while.vcxproj -> C:\Users\Noob\Desktop\Новая папка\LR3_while\Debug\LR3_while.exe
+  LR3_while.vcxproj -> C:\Users\Noob\Desktop\Новая папка\LR3_while\Debug\LR3_while.pdb (Partial PDB)
