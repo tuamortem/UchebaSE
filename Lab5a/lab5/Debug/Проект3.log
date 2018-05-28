@@ -1,0 +1,7 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LabRab5a.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Rac.cpp
+c:\users\noob\documents\visual studio 2015\projects\проект2\проект3\rac.cpp(38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Проект3.vcxproj -> C:\Users\Noob\Documents\Visual Studio 2015\Projects\Проект2\Debug\Проект3.exe
+  Проект3.vcxproj -> C:\Users\Noob\Documents\Visual Studio 2015\Projects\Проект2\Debug\Проект3.pdb (Partial PDB)
